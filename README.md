@@ -1,8 +1,9 @@
 # MWRC2014_code
 
 This repository contains the code samples from my
-[Affordances in Programming Languages]() talk from
-[Mountain West Ruby Conference 2014]().
+[Affordances in Programming Languages](http://www.slideshare.net/randycoulman/affordances-in-programming-languages)
+talk from
+[Mountain West Ruby Conference 2014](http://mtnwestrubyconf.org/).
 
 # Contents
 
